@@ -7,40 +7,13 @@
           <input id="check02" type="checkbox" name="menu" />
           <label for="check02"><span style="color: white;">=</span></label>
           <ul class="submenu">
-            <li><a href="#">首页-苗佳哲</a></li>
+            <li><a href="#">首页</a></li>
             <li>
               <router-link to="/mi">
-                <a href="#">苗佳哲-小米官网</a>
+                <a href="#">小米官网</a>
               </router-link>
             </li>
-            <li>
-              <a href="../其他网页/手机页面-梅真妍/index.html"
-                >梅真妍-手机页面</a
-              >
-            </li>
-            <li>
-              <a href="../其他网页/换电池-何东英/index.html"
-                >何东英-换电池页面</a
-              >
-            </li>
-            <li>
-              <a href="../其他网页/HUAWEI P40-郑佳雪/index.html"
-                >郑佳雪-华为p40页面</a
-              >
-            </li>
-            <li>
-              <a href="../其他网页/荣耀官网页面-李文剑/">李文剑-荣耀官网页面</a>
-            </li>
-            <li>
-              <a href="../其他网页/我的订单-杨雪萍/dingdan.html"
-                >杨雪萍-我的订单页面</a
-              >
-            </li>
-            <li>
-              <a href="../其他网页/服务中心-李睿/index.html"
-                >李睿-服务中心页面</a
-              >
-            </li>
+       
           </ul>
         </li>
       </ul>
